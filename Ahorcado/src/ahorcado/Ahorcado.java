@@ -1,0 +1,13 @@
+package ahorcado;
+
+/**
+ *
+ * @author Diego
+ */
+public class Ahorcado {
+
+    public static void main(String[] args) {
+        Ventana ventana = new Ventana();
+        ventana.setVisible(true);
+    }
+}
